@@ -1,1 +1,1 @@
-Sitemap: /turing.ml/$(git%20tag%20--sort%20version:refname%20%7C%20tail%20-n%201)/sitemap.xml
+Sitemap: /turing.ml/dev/sitemap.xml
