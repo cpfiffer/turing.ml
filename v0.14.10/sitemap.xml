@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <title>Turing.jl</title>
-    <meta name="description" content="         /     2020-10-28     daily         /turing.ml/v0.14docs/using-turing/get-started/     2020-10-28     daily         /turing.ml/v0.14docs/for-develope...">
+    <meta name="description" content="         /     2020-10-31     daily         /turing.ml/v0.14docs/using-turing/get-started/     2020-10-31     daily         /turing.ml/v0.14docs/for-develope...">
     <meta name="author" content="The Turing Team">
     <meta name="theme-color" content="red">
     <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
@@ -797,32 +797,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
      <loc>/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-10-31</lastmod>
      <changefreq>daily</changefreq>
     </url>
 <url>
      <loc>/turing.ml/v0.14docs/using-turing/get-started/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-10-31</lastmod>
      <changefreq>daily</changefreq>
     </url>
 <url>
      <loc>/turing.ml/v0.14docs/for-developers//</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-10-31</lastmod>
      <changefreq>daily</changefreq>
     </url>
 <url>
      <loc>/turing.ml/v0.14tutorials/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-10-31</lastmod>
      <changefreq>daily</changefreq>
     </url>
 <url>
      <loc>/turing.ml/v0.14docs/library/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-10-31</lastmod>
      <changefreq>daily</changefreq>
     </url>
 <url>
      <loc>/turing.ml/v0.14docs/contributing/guide/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-10-31</lastmod>
      <changefreq>daily</changefreq>
     </url>
 
